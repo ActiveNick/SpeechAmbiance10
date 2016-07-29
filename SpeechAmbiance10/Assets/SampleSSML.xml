@@ -1,0 +1,11 @@
+﻿
+<speak
+  version='1.0'
+  xmlns='http://www.w3.org/2001/10/synthesis'
+  xml:lang='en-us'>
+  <voice name='Microsoft Zira Mobile'>
+    <prosody pitch='low' rate='0.9'>
+      This is the text that will be read by the speech synthesizer.
+    </prosody>
+  </voice>
+</speak>
