@@ -114,15 +114,50 @@
     <Content Include="Assets\177958__sclolex__water-dripping-in-cave.wav">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\Ambiance.png" />
+    <Content Include="Assets\Ambiance.svg" />
+    <Content Include="Assets\badgelogo.scale-100.png" />
+    <Content Include="Assets\badgelogo.scale-125.png" />
+    <Content Include="Assets\badgelogo.scale-150.png" />
+    <Content Include="Assets\badgelogo.scale-200.png" />
+    <Content Include="Assets\badgelogo.scale-400.png" />
+    <Content Include="Assets\largelogo.scale-100.png" />
+    <Content Include="Assets\largelogo.scale-125.png" />
+    <Content Include="Assets\largelogo.scale-150.png" />
+    <Content Include="Assets\largelogo.scale-200.png" />
+    <Content Include="Assets\largelogo.scale-400.png" />
+    <Content Include="Assets\logo.scale-100.png" />
+    <Content Include="Assets\logo.scale-125.png" />
+    <Content Include="Assets\logo.scale-150.png" />
+    <Content Include="Assets\logo.scale-200.png" />
+    <Content Include="Assets\logo.scale-400.png" />
     <Content Include="Assets\SampleSSML.xml" />
+    <Content Include="Assets\splashscreen.scale-100.png" />
+    <Content Include="Assets\splashscreen.scale-125.png" />
+    <Content Include="Assets\splashscreen.scale-150.png" />
+    <Content Include="Assets\splashscreen.scale-200.png" />
+    <Content Include="Assets\splashscreen.scale-400.png" />
+    <Content Include="Assets\square44x44logo.scale-100.png" />
+    <Content Include="Assets\square44x44logo.scale-125.png" />
+    <Content Include="Assets\square44x44logo.scale-150.png" />
+    <Content Include="Assets\square44x44logo.scale-200.png" />
+    <Content Include="Assets\square44x44logo.scale-400.png" />
+    <Content Include="Assets\square71x71logo.scale-100.png" />
+    <Content Include="Assets\square71x71logo.scale-125.png" />
+    <Content Include="Assets\square71x71logo.scale-150.png" />
+    <Content Include="Assets\square71x71logo.scale-200.png" />
+    <Content Include="Assets\square71x71logo.scale-400.png" />
+    <Content Include="Assets\storelogo.scale-100.png" />
+    <Content Include="Assets\storelogo.scale-125.png" />
+    <Content Include="Assets\storelogo.scale-150.png" />
+    <Content Include="Assets\storelogo.scale-200.png" />
+    <Content Include="Assets\storelogo.scale-400.png" />
+    <Content Include="Assets\widelogo.scale-100.png" />
+    <Content Include="Assets\widelogo.scale-125.png" />
+    <Content Include="Assets\widelogo.scale-150.png" />
+    <Content Include="Assets\widelogo.scale-200.png" />
+    <Content Include="Assets\widelogo.scale-400.png" />
     <Content Include="Properties\Default.rd.xml" />
-    <Content Include="Assets\LockScreenLogo.scale-200.png" />
-    <Content Include="Assets\SplashScreen.scale-200.png" />
-    <Content Include="Assets\Square150x150Logo.scale-200.png" />
-    <Content Include="Assets\Square44x44Logo.scale-200.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
-    <Content Include="Assets\StoreLogo.png" />
-    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
